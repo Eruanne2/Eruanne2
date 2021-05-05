@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Eruanne2)](https://github.com/Eruanne2/github-readme-stats)
 [![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eruanne2)](https://github.com/Eruanne2/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Eruanne2)](https://github.com/Eruanne2/github-readme-stats)

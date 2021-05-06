@@ -15,17 +15,17 @@
 🔗 Want to connect? Find me on [LinkedIn](www.linkedin.com/in/charis-ginn-9abb93173)
 
 <details closed>
-  <summary>GitHub Stats</summary>
+  <summary>GitHub Stats 📈</summary>
   <br>
   
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Eruanne2)](https://github.com/Eruanne2/github-readme-stats) 📈
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Eruanne2)](https://github.com/Eruanne2/github-readme-stats) 
   
 </details>
 
 <details closed>
-  <summary>My Top Languages</summary>
+  <summary>My Top Languages ☕ </summary>
   <br>
   
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eruanne2)](https://github.com/Eruanne2/github-readme-stats) ⌨️
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eruanne2)](https://github.com/Eruanne2/github-readme-stats) 
   
 </details>

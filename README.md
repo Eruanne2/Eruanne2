@@ -18,7 +18,7 @@
   <summary>GitHub Stats</summary>
   <br>
   
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Eruanne2)](https://github.com/Eruanne2/github-readme-stats)
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Eruanne2)](https://github.com/Eruanne2/github-readme-stats) 📈
   
 </details>
 
@@ -26,6 +26,6 @@
   <summary>My Top Languages</summary>
   <br>
   
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eruanne2)](https://github.com/Eruanne2/github-readme-stats)
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eruanne2)](https://github.com/Eruanne2/github-readme-stats) ⌨️
   
 </details>

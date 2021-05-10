@@ -6,6 +6,8 @@
 
 🛠️ Right now I'm working on a Time Value of Money Visualizer. Check out the live link [here](https://eruanne2.github.io/Time-Value-of-Money-Visualizer/).
 
+💭 The next project on my radar will be a spin on Benjamin Torvaney's [Duck Debugger](https://torvaney.github.io/projects/duck-debugger). 
+
 🇰🇷  I'm currently learning Korean, as I will be moving to South Korea this summer! 안녕하세요! 군산에서 살게요.
 
 🚵 I'm passionate about personal finance, physical fitness, and outdoor exploration.

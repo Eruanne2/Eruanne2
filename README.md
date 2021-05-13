@@ -1,6 +1,6 @@
 ### Hi, I'm Charis 👋
 
-💻: I'm a full-stack developer who specializes in React-Redux and Ruby on Rails.
+💻 I'm a full-stack developer who specializes in React-Redux and Ruby on Rails.
 
 ❤️ Check out my favorite project, [TracNova](https://trac-nova.herokuapp.com/)! It's a habit tracker that looks for correlations between multiple habits or factors. 
 

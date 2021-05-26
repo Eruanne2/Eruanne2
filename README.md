@@ -6,7 +6,7 @@
 
 🛠️ Right now I'm building a Time Value of Money Visualizer. Check out the work in progress [here](https://eruanne2.github.io/Time-Value-of-Money-Visualizer/).
 
-💭 The next project on my radar is a spin on Benjamin Torvaney's [Duck Debugger](https://torvaney.github.io/projects/duck-debugger). 
+💭 The next project I'm planning will be a spin on Benjamin Torvaney's [Duck Debugger](https://torvaney.github.io/projects/duck-debugger) using Python and Django.
 
 🇰🇷  I'm currently learning Korean, as I will be moving to South Korea this summer! 안녕하세요! 군산에서 살게요.
 

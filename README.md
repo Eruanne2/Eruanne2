@@ -4,7 +4,7 @@
 
 ❤️ Check out my favorite project, [TracNova](https://trac-nova.herokuapp.com/)! It's a habit tracker that looks for correlations between multiple habits or factors. 
 
-🛠️ Right now I'm working on a Time Value of Money Visualizer. Check out the live link [here](https://eruanne2.github.io/Time-Value-of-Money-Visualizer/).
+🛠️ Right now I'm building a Time Value of Money Visualizer. Check out the work in progress [here](https://eruanne2.github.io/Time-Value-of-Money-Visualizer/).
 
 💭 The next project on my radar is a spin on Benjamin Torvaney's [Duck Debugger](https://torvaney.github.io/projects/duck-debugger). 
 

@@ -4,6 +4,8 @@
 
 ❤️ Check out my favorite project, [TracNova](https://trac-nova.herokuapp.com/)! It's a habit tracker that looks for correlations between multiple habits or factors. 
 
+💰 I also built a clone of Ally Bank including some pretty nifty features like daily interest accrual, a fully functional "forgot username" link, and auto-logout after 5 minutes of inactivity.
+
 🛠️ Right now I'm building a Time Value of Money Visualizer. Check out the work in progress [here](https://eruanne2.github.io/Time-Value-of-Money-Visualizer/).
 
 💭 The next project I'm planning will be a spin on Benjamin Torvaney's [Duck Debugger](https://torvaney.github.io/projects/duck-debugger) using Python and Django.

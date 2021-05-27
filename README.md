@@ -4,7 +4,7 @@
 
 ❤️ Check out my favorite project, [TracNova](https://trac-nova.herokuapp.com/)! It's a habit tracker that looks for correlations between multiple habits or factors. 
 
-💰 I'm also really proud of [Align Bank](https://align-financial.herokuapp.com/#/), my clone of real-life Ally Bank, which is fully functional including some pretty nifty features!
+💰 I'm also very proud of [Align Bank](https://align-financial.herokuapp.com/#/), my clone of real-life Ally Bank, which is fully functional including some pretty nifty features!
 
 🛠️ Right now I'm building a Time Value of Money Visualizer. Check out the work in progress [here](https://eruanne2.github.io/Time-Value-of-Money-Visualizer/).
 

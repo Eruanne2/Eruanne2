@@ -6,7 +6,7 @@
 
 💰 I'm also very proud of [Align Bank](https://align-financial.herokuapp.com/#/), my clone of real-life Ally Bank, which is fully functional including some pretty nifty features like interest accrual and force logout after inactivity.
 
-🛠️ Right now I'm wrapping up a [Time Value of Money Visualizer](https://github.com/Eruanne2/Time-Value-of-Money-Visualizer). 
+🛠️ Right now I'm wrapping up a [Time Value of Money Visualizer](https://github.com/Eruanne2/Time-Value-of-Money-Visualizer). Check out the live version [here](https://eruanne2.github.io/Time-Value-of-Money-Visualizer/)!
 
 💭 The next project I'm planning will be a spin on Benjamin Torvaney's [Duck Debugger](https://torvaney.github.io/projects/duck-debugger) using Python and Django.
 

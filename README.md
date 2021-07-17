@@ -12,7 +12,7 @@
 
 🇰🇷  I'm currently learning Korean, as I will be moving to South Korea this summer! 안녕하세요! 군산에서 살게요.
 
-🚵 I'm passionate about personal finance, physical fitness, and outdoor exploration.
+🚵 I'm passionate about personal finance, physical fitness, and pushing the boundaries of my comfort zone in every way possible.
 
 📬 Reach out to me at charis.ginn222@gmail.com if you'd like to collaborate!
 

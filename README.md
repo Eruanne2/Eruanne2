@@ -16,7 +16,7 @@
 
 📬 Reach out to me at charis.ginn222@gmail.com if you'd like to collaborate!
 
-🔗 Want to connect? Find me on [LinkedIn](www.linkedin.com/in/charis-ginn-9abb93173)
+🔗 Want to connect? Find me on [LinkedIn](www.linkedin.com/in/charis-ginn-9abb93173)!
 
 <details closed>
   <summary>GitHub Stats 📈</summary>

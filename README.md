@@ -6,7 +6,7 @@
 
 💰 I'm also very proud of [Align Bank](https://align-financial.herokuapp.com/#/), my clone of real-life Ally Bank, which is fully functional including some pretty nifty features like interest accrual and force logout after inactivity.
 
-🛠️ Right now I'm wrapping up a [script](https://github.com/Eruanne2/WX-Alerts) that texts my husband whenever there is a major weather event in any of his 8 favorite places. (He likes weather, don't ask me why.)
+🛠️ Right now I'm wrapping up a [script](https://github.com/Eruanne2/WX-Alerts) that texts my husband whenever there is a major weather event in any of his 8 favorite places. (He likes weather, don't ask me why 🤷‍♀️)
 
 💭 The next project I'm planning will be a spin on Benjamin Torvaney's [Duck Debugger](https://torvaney.github.io/projects/duck-debugger) using Python and Django.
 

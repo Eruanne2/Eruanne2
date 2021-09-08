@@ -2,13 +2,13 @@
 
 💻 I'm a full-stack developer who specializes in React-Redux and Ruby on Rails.
 
-❤️ Check out my favorite project, [TracNova](https://trac-nova.herokuapp.com/)! It's a habit tracker that looks for correlations between multiple habits or factors. 
+❤️ Check out my favorite project, [Align Bank](https://align-financial.herokuapp.com/#/)! It's a clone of real-life Ally Bank, which is fully functional including some pretty nifty features like interest accrual and force logout after inactivity.
 
-💰 I'm also very proud of [Align Bank](https://align-financial.herokuapp.com/#/), my clone of real-life Ally Bank, which is fully functional including some pretty nifty features like interest accrual and force logout after inactivity.
+📈 I also had a blast making [TracNova](https://trac-nova.herokuapp.com/), a habit tracker that looks for correlations between multiple habits or factors. 
 
-🛠️ Right now I'm wrapping up a [script](https://github.com/Eruanne2/WX-Alerts) that texts my husband whenever there is a major weather event in any of his 8 favorite places. (He likes weather, don't ask me why 🤷‍♀️)
+🛠️ Right now I'm building a rotating [Earth Observatory](https://github.com/Eruanne2/epic-earth) that allows you to see what Earth looked like on any given day, using photos taken by NASA'S Earth Polychromatic Imaging Camera. (Hint: check out Feb 11, 2021 to see something cool!)
 
-💭 The next project I'm planning will be a spin on Benjamin Torvaney's [Duck Debugger](https://torvaney.github.io/projects/duck-debugger) using Python and Django.
+💭 The next project I'm planning is a mini game I will be building with my friend Lamar!
 
 🇰🇷  I'm currently learning Korean, as I will be moving to South Korea this summer! 안녕하세요! 군산에서 살게요.
 

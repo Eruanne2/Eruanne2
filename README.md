@@ -6,7 +6,7 @@
 
 📈 I also had a blast making [TracNova](https://trac-nova.herokuapp.com/), a habit tracker that looks for correlations between multiple habits or factors. 
 
-🛠️ Right now I'm building a rotating [Earth Observatory](https://github.com/Eruanne2/epic-earth) that allows you to see what Earth looked like on any given day, using photos taken by NASA'S Earth Polychromatic Imaging Camera. (Hint: check out Feb 11, 2021 to see something cool!) 🚀
+🛠️ Right now I'm building a rotating [Earth Observatory](https://github.com/Eruanne2/epic-earth) visual that allows you to see what Earth looked like on any given day, using photos taken by NASA'S Earth Polychromatic Imaging Camera. (Hint: check out Feb 11, 2021 to see something cool!) 🚀
 
 💭 The next project I'm planning is a mini game I will be building with my friend Lamar.
 

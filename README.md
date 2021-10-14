@@ -1,6 +1,6 @@
 ### Hi, I'm Charis 👋
 
-💻 I'm a full-stack developer who specializes in React-Redux and Ruby on Rails.
+💻 I'm a full-stack developer who specializes in React-Redux and Ruby on Rails. (Currently learning TypeScript too.)
 
 ❤️ Check out my favorite project, [Align Bank](https://align-financial.herokuapp.com/#/)! It's a clone of real-life Ally Bank, which is fully functional including some pretty nifty features like interest accrual and force logout after inactivity.
 

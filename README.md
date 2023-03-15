@@ -8,7 +8,7 @@
 
 🛠️ Right now I'm building a interactive [Earth Observatory](https://github.com/Eruanne2/epic-earth) that allows you to see what Earth looked like on any given day, using photos taken by NASA'S Earth Polychromatic Imaging Camera. (Hint: check out Feb 11, 2021 to see something cool!) 🚀
 
-🇰🇷  I am also learning Korean! 남편은 공군 조종사이고  남편하고 함께 군산에 살고 있어요.
+🇰🇷  I am also learning Korean! 이년 동안 군산에서 살아서 한국 너무 좋아해요.
 
 🚵 I'm passionate about personal finance, physical fitness, and pushing the boundaries of my comfort zone in every way possible.
 
